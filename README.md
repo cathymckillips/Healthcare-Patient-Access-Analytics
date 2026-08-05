@@ -12,6 +12,20 @@ The project follows a realistic patient journey through the specialty medication
 
 Rather than focusing only on dashboard development, this project emphasizes enterprise analytics practices including data quality, business rules, SQL development, documentation, KPI design, and stakeholder-focused reporting.
 
+# Dashboard Preview
+
+| Prior Authorization KPIs Dashboard | Claims Dashboard |
+|----------------------|-------------------------------|
+| ![](Images/Page_1.jpg) | ![](Images/Page_2.jpg) |
+
+| Patient Population & Demographics Dashboard | Prescriptions Dashboard |
+|---------------------------|------------------------------|
+| ![](Images/Page_3.jpg) | ![](Images/Page_4.jpg) |
+
+---
+
+# Business Objective
+
 ---
 
 # Business Objective
